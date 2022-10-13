@@ -2,8 +2,7 @@
 
 - 🔭 Atualmente estou cursando o 2 semestre da faculdade
 - 🌱 Curso Sistemas de Informação
-- 😄 Pronomes: ele/dele
-
+##
 <div align="center">
   <a href="https://github.com/fnzz0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fnzz0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
