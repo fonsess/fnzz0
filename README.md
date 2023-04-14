@@ -14,7 +14,6 @@
   <img align="center" alt="fonses-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fonses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fonses-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="fonses-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/iSgz40j.png">
 </div>
 
 ##
