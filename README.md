@@ -1,6 +1,6 @@
 ## Olá, me chamo Felipe Fonseca
 
-- 🔭 Atualmente estou cursando o 3 semestre da faculdade
+- 🔭 Atualmente estou cursando o 4 semestre da faculdade
 - 🌱 Curso Sistemas de Informação
 ##
 <div align="center">
