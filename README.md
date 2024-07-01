@@ -1,7 +1,7 @@
 ## Olá, me chamo Felipe Fonseca
 
-- 🔭 Atualmente estou cursando o 6 semestre da faculdade
-- 🌱 Curso Sistemas de Informação
+- 🔭 Atualmente estou cursando o 6 semestre do curso de Sistemas de Informação  na Universidade Santa Cecília
+- 📫 Email de contato: fmfonseca.contato@gmail.com
 ##
 <div align="center">
   <a href="https://github.com/fnzz0">
@@ -19,10 +19,9 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCibbYHT9nf3x3o3zv3Txn2g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fonsesfnz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/fonsess" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fonsecafnz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fonsecaff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fmfonseca.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fonsecafm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
