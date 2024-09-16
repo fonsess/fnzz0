@@ -3,11 +3,6 @@
 - 🔭 Atualmente estou cursando o 6 semestre do curso de Sistemas de Informação  na Universidade Santa Cecília
 - 📫 Email de contato: fmfonseca.contato@gmail.com
 ##
-<div align="center">
-  <a href="https://github.com/fnzz0">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=fnzz0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnzz0&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fonses-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
